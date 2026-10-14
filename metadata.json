@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Kantor Notaris & PPAT",
+  "description": "Sistem informasi pendaftaran akta, jadwal konsultasi, verifikasi berkas, dan pelacakan layanan kantor Notaris & PPAT berbasis web terhubung dengan database PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
